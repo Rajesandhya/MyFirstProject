@@ -13,5 +13,7 @@ public class MyFirstClass {
 
         System.out.println( " What are the benefit of software testing?");
 
+        System.out.println("What are the qualities of software tester?");
+
     }
 }
